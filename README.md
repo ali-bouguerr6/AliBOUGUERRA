@@ -7,6 +7,12 @@ I have worked on NLP projects and have experience with SQL and Hadoop too.
 
 I also code in my free time mainly for pleasure!
 
+
+🎯 2025 Focus Areas:
+   - Machine & Deep Learning applications
+   - Cloud Computing basics (AWS)
+   - Advanced SQL
+     
 ## Languages and Tools
 
 Use: 
@@ -17,7 +23,7 @@ Use:
 - Student at the University of Strasbourg - Master's degree in Data Science 
 
 ![Univ](https://www.prepa-laurea.com/wp-content/uploads/2023/03/Logo-Universite-de-Strasbourg.png)
-
+ 
 
 ### :hammer:  Tools with python :
 
