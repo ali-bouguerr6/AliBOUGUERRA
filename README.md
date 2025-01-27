@@ -10,7 +10,7 @@ I also code in my free time mainly for pleasure!
 ## Languages and Tools
 
 Use: 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) 
 
 ## Studies & Jobs
 - Student at the University of Strasbourg - Master's degree in Data Science 
@@ -27,3 +27,9 @@ Use:
 ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
 
 ### :hammer:  Tools with R :
+
+### :hammer: Tools with R 
+
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=r&logoColor=white&labelColor=276DC3)
+![RSelenium](https://img.shields.io/badge/RSelenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-3A75AD?style=flat&logo=r&logoColor=white)
