@@ -1,10 +1,11 @@
 # Hi, I'm Ali 
 # 👋 Welcome to my GitHub profile!
-# Hi, I'm Ali
 
-mortar_board: I studied at the University of Strasbourg 
-signal_strength: Im currently learning machine learning and deep learning algorithms
 
+## Studies & Jobs
+- Student at the University of Strasbourg - Master's degree in Data Science 
+
+![Univ](https://www.prepa-laurea.com/wp-content/uploads/2023/03/Logo-Universite-de-Strasbourg.png)
 
 
 ### :hammer:  Tools with python :
